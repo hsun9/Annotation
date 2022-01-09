@@ -1,6 +1,7 @@
 # Annotation
 
 Genome annotation.
+
 '''
 *.gene.anno                    # gene annotation
 *.transcript.anno              # transcript annotation
